@@ -1,1 +1,0 @@
-#import <UpNextWidget/Localization.h>

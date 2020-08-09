@@ -1,8 +1,0 @@
-#import <IntentsUICardKitProviderSupport/INUICKPSynchronousRemoteViewController.h>
-#import <IntentsUICardKitProviderSupport/INUICKPInterfaceSectionConverter.h>
-#import <IntentsUICardKitProviderSupport/INUICKPSynchronousRemoteView.h>
-#import <IntentsUICardKitProviderSupport/INUICKPCardSectionViewProvider.h>
-#import <IntentsUICardKitProviderSupport/INUICKPExtensionCardSectionViewController.h>
-#import <IntentsUICardKitProviderSupport/INUICKPEntryPoint.h>
-#import <IntentsUICardKitProviderSupport/INUICKPCardInterfaceSection.h>
-#import <IntentsUICardKitProviderSupport/INUICKPSynchronousRemoteViewControllerAllocator.h>

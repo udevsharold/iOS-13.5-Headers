@@ -1,3 +1,0 @@
-#import <HealthMenstrualCyclesUI/HKMCCycleTimelinePillConfiguration.h>
-#import <HealthMenstrualCyclesUI/HKMCCycleTimelineFlowLayoutAttributes.h>
-#import <HealthMenstrualCyclesUI/HKMCCycleTimelineFlowLayout.h>

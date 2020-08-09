@@ -1,1 +1,0 @@
-#import <HeroAppPredictionClient/ATXHeroAppPredictionClient.h>

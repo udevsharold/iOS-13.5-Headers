@@ -1,9 +1,0 @@
-#import <CorePrediction/CPMLTrainer.h>
-#import <CorePrediction/CPMLModel.h>
-#import <CorePrediction/CPMLDB.h>
-#import <CorePrediction/CPMLKMeansModel.h>
-#import <CorePrediction/CPMLModelEvaluate.h>
-#import <CorePrediction/CPMLSchema.h>
-#import <CorePrediction/CPMLNaiveBayesStorageManager.h>
-#import <CorePrediction/CPMLStorageManager.h>
-#import <CorePrediction/CPMLEvalutionResult.h>
